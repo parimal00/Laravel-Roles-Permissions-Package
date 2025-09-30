@@ -1,5 +1,5 @@
 {
-    "name": "dude-34567/roles-permissions",
+    "name": "dude-9923/roles-permissions",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -13,6 +13,6 @@
             "dude\\RolesPermissions\\": "src/"
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {}
 }
